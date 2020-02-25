@@ -1,2 +1,10 @@
-# dv-ovodov_microservices
-dv-ovodov microservices repository
+# Инфраструктурный репозиторий (курс "DevOps. Практики и инструменты" OTUS.RU)
+
+------
+## ДЗ 12 "Docker контейнеры. Docker под капотом."
+
+Ветка docker-1 содержит реализацию тестового задания к уроку "Docker контейнеры. Docker под капотом."
+
+* Добавлена интеграция репо с travis и шаблон для github
+* Установлен docker
+* Изучены основные команды docker
